@@ -55,7 +55,7 @@ By leveraging OTA technology more effectively and addressing software-hardware i
 ## Connect with Me
 
 - **Portfolio:** [maazhussain.ca](https://maazhussain.ca)
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maaz-hussain-/)
 
 ---
 
